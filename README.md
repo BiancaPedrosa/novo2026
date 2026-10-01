@@ -2,5 +2,5 @@
 
 projeto web dinamico
 
-** equipe **
+**_equipe_**
 Bianca Maria Pedrosa
